@@ -5,7 +5,7 @@
 O projeto consiste em uma *landing page* feita para a Psicóloga Paloma Preira, tomando como base o design e todos os conceitos aprendidos no projeto *beautysalon* realizado no evento *NLW Together - Origin* da [*Rocketseat*](https://www.rocketseat.com.br/). 
 
 ### Links
-- [Landing Page Paloma Pereira](https://elated-lichterman-6a47f5.netlify.app/)
+- [Landing Page Paloma Pereira](https://psicologapalomapereira.netlify.app/)
 - [beautysalon](https://elena-calcada.github.io/beautysalon/)
 - [Repositório beautysalon](https://github.com/elena-calcada/beautysalon)
 
