@@ -188,14 +188,14 @@ nav.show .menu{
   opacity: 1;
   visibility: visible;
   background-color: var(--background-color);
-  height: 100vh;
+  height: 100%;
   width: 100vw;
   position: fixed;
   top: 0;
   left: 0;
-
   display: grid;
   place-content: center;
+  overflow: scroll;
 }
 
 nav.show .title{
@@ -203,8 +203,17 @@ nav.show .title{
 }
 
 nav.show .menu ul.grid{
-  gap: 2.2rem;
+  gap: 2rem;
 }
+
+/* nav.show .menu ul{
+  display: flex;
+  flex-direction: column;
+  gap: 2.2rem;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+} */
 
 nav .icon-close{
   visibility: hidden;
